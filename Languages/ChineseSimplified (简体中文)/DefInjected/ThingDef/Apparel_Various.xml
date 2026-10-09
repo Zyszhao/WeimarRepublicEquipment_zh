@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reichswehr infantry helmet -->
+  <K4G_Apparel_WRReichswehrInfantryHelmet.label>国防军步兵头盔</K4G_Apparel_WRReichswehrInfantryHelmet.label>
+  <!-- EN: An infantry helmet worn by the Reichswehr. -->
+  <K4G_Apparel_WRReichswehrInfantryHelmet.description>国家防卫军步兵所戴的头盔。</K4G_Apparel_WRReichswehrInfantryHelmet.description>
+  
+  <!-- EN: Reichswehr infantry rucksack -->
+  <K4G_Apparel_WRReichswehrInfantryRucksack.label>国防军步兵背包</K4G_Apparel_WRReichswehrInfantryRucksack.label>
+  <!-- EN: An infantry rucksack worn by the Reichswehr. -->
+  <K4G_Apparel_WRReichswehrInfantryRucksack.description>国家防卫军步兵所使用的背包。</K4G_Apparel_WRReichswehrInfantryRucksack.description>
+  
+  <!-- EN: Reichswehr infantry uniform -->
+  <K4G_Apparel_WRReichswehrInfantryUniform.label>国防军步兵制服</K4G_Apparel_WRReichswehrInfantryUniform.label>
+  <!-- EN: An infantry uniform worn by the Reichswehr. -->
+  <K4G_Apparel_WRReichswehrInfantryUniform.description>国家防卫军步兵所穿着的制服。</K4G_Apparel_WRReichswehrInfantryUniform.description>
+  
+  <!-- EN: Reichswehr infantry webbing -->
+  <K4G_Apparel_WRReichswehrInfantryWebbing.label>国防军步兵背带</K4G_Apparel_WRReichswehrInfantryWebbing.label>
+  <!-- EN: Infantry uniform webbing worn by the Reichswehr. -->
+  <K4G_Apparel_WRReichswehrInfantryWebbing.description>国家防卫军步兵所使用的背带。</K4G_Apparel_WRReichswehrInfantryWebbing.description>
+  
+  <!-- EN: Sicherheitspolizei officer shako -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerShako.label>安全警察官员帽</K4G_Apparel_WRSicherheitspolizeiOfficerShako.label>
+  <!-- EN: A fancy police hat worn by the Sicherheitspolizei. -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerShako.description>安全警察所戴的花哨警帽。</K4G_Apparel_WRSicherheitspolizeiOfficerShako.description>
+  
+  <!-- EN: Sicherheitspolizei officer trenchcoat -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerTrenchcoat.label>安全警察官员风衣</K4G_Apparel_WRSicherheitspolizeiOfficerTrenchcoat.label>
+  <!-- EN: A police trenchcoat worn by the Sicherheitspolizei. -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerTrenchcoat.description>安全警察所穿着的风衣。</K4G_Apparel_WRSicherheitspolizeiOfficerTrenchcoat.description>
+  
+  <!-- EN: Sicherheitspolizei officer uniform -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerUniform.label>安全警察官员制服</K4G_Apparel_WRSicherheitspolizeiOfficerUniform.label>
+  <!-- EN: A police uniform worn by the Sicherheitspolizei. -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerUniform.description>安全警察所穿着的制服。</K4G_Apparel_WRSicherheitspolizeiOfficerUniform.description>
+  
+  <!-- EN: Sicherheitspolizei officer webbing -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerWebbing.label>安全警察官员背带</K4G_Apparel_WRSicherheitspolizeiOfficerWebbing.label>
+  <!-- EN: Police uniform webbing worn by the Sicherheitspolizei. -->
+  <K4G_Apparel_WRSicherheitspolizeiOfficerWebbing.description>安全警察所使用的背带。</K4G_Apparel_WRSicherheitspolizeiOfficerWebbing.description>
+  
+</LanguageData>

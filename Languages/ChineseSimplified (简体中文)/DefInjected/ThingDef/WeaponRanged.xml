@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gewehr 98 rifle bullet -->
+  <K4G_Bullet_WRGewehr98Rifle.label>Gewehr 98步枪子弹</K4G_Bullet_WRGewehr98Rifle.label>
+  
+  <!-- EN: MP34 SMG bullet -->
+  <K4G_Bullet_WRMP34SMG.label>MP 34冲锋枪子弹</K4G_Bullet_WRMP34SMG.label>
+  
+  <!-- EN: Gewehr 98 rifle -->
+  <K4G_Gun_WRGewehr98Rifle.label>Gewehr 98步枪</K4G_Gun_WRGewehr98Rifle.label>
+  <!-- EN: A bolt-action rifle that saw extensive service before and after WW1. Its range and low fire rate make it great for warfare and hunting. -->
+  <K4G_Gun_WRGewehr98Rifle.description>一种在一战前后广泛使用的栓动步枪。其长射程和低射速使其非常适合战争和狩猎用。</K4G_Gun_WRGewehr98Rifle.description>
+  <!-- EN: stock -->
+  <K4G_Gun_WRGewehr98Rifle.tools.stock.label>枪托</K4G_Gun_WRGewehr98Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <K4G_Gun_WRGewehr98Rifle.tools.barrel.label>枪管</K4G_Gun_WRGewehr98Rifle.tools.barrel.label>
+  <!-- EN: Gewehr 98 rifle -->
+  <K4G_Gun_WRGewehr98Rifle.verbs.Verb_Shoot.label>Gewehr 98步枪</K4G_Gun_WRGewehr98Rifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: MP34 SMG -->
+  <K4G_Gun_WRMP34SMG.label>MP 34冲锋枪</K4G_Gun_WRMP34SMG.label>
+  <!-- EN: A compact, quickly firing weapon used before and after WW2. It's got a very short range, but it packs a punch and handles quite well. -->
+  <K4G_Gun_WRMP34SMG.description>一种在二战前后使用的紧凑的速射武器。其射程极短，但输出能力很强，操作性能也相当不错。</K4G_Gun_WRMP34SMG.description>
+  <!-- EN: grip -->
+  <K4G_Gun_WRMP34SMG.tools.grip.label>握把</K4G_Gun_WRMP34SMG.tools.grip.label>
+  <!-- EN: barrel -->
+  <K4G_Gun_WRMP34SMG.tools.barrel.label>枪管</K4G_Gun_WRMP34SMG.tools.barrel.label>
+  <!-- EN: MP34 SMG -->
+  <K4G_Gun_WRMP34SMG.verbs.Verb_Shoot.label>MP 34冲锋枪</K4G_Gun_WRMP34SMG.verbs.Verb_Shoot.label>
+  
+</LanguageData>

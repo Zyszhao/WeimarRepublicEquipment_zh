@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[K4G] Equipment of the Weimar Republic 个人简中汉化</name>
+	<author>Zyszhao</author>
+	<packageId>Zyszhao.WeimarRepublicEquipment.zhhans</packageId>	
+	<supportedVersions>
+	<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+	<li>K4G.WeimarRepublicEquipment</li>
+	</loadAfter>
+	<description>
+		[h1][b][K4G] Equipment of the Weimar Republic(魏玛共和国装备)的简体中文汉化包，请在原mod之后加载。[/b][/h1]
+
+	翻译：
+	-简中：Zyszhao
+	--可以依此翻译制作繁中汉化。
+	
+	[h1]简介：[/h1]
+	-向游戏中加入了一些具有实际效果，需要一个科技来解锁的的魏玛共和国时期的军服，以及位于原版科技树内的Gewehr 98步枪和MP 38冲锋枪。
+
+——————————————————————————
+加入“Rimworld边缘世界”QQ频道(搜索频道号：4b65yw31cx)，与其他玩家一同畅所欲言，并获取更多汉化发布、更新动态。
+——————————————————————————
+个人汉化，非喜勿喷，欢迎改正！
+——————————————————————————
+	</description>
+</ModMetaData>
